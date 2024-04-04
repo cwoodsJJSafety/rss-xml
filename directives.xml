@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.osha.gov/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<channel>
+<title>OSHA Directives</title>
+<link>https://www.osha.gov/</link>
+<description>Current OSHA Directives</description>
+<language>en</language>
+<item>
+<title>Cancellation of TED 01-00-016 Procedures for Updating OSHA Technical Manual</title>
+<link>https://www.osha.gov/enforcement/directives/2024-03-ted-01-00-016</link>
+<description>03/20/2024 - National - 2024-03 (TED 01-00-016) [TED 01-00-016] - Cancellation of TED 01-00-016 Procedures for Updating OSHA Technical Manual</description>
+<pubDate>Wed, 20 Mar 2024 12:00:00 +0000</pubDate>
+<dc:creator>Cancellation of TED 01-00-016 Procedures for Updating OSHA Technical Manual</dc:creator>
+<guid isPermaLink="true">https://www.osha.gov/enforcement/directives/2024-03-ted-01-00-016</guid>
+</item>
+<item>
+<title>Cancellation of TED 01-00-014 Guidelines for Developing OSHA Technical Manual</title>
+<link>https://www.osha.gov/enforcement/directives/2024-02-ted-01-00-014</link>
+<description>03/07/2024 - National - 2024-02 (TED 01-00-014) [TED 01-00-014] - Cancellation of TED 01-00-014 Guidelines for Developing OSHA Technical Manual</description>
+<pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
+<dc:creator>Cancellation of TED 01-00-014 Guidelines for Developing OSHA Technical Manual</dc:creator>
+<guid isPermaLink="true">https://www.osha.gov/enforcement/directives/2024-02-ted-01-00-014</guid>
+</item>
+<item>
+<title>Cancellation of STD 03-12-003 Guidelines on the Stability of Well Servicing Derricks</title>
+<link>https://www.osha.gov/enforcement/directives/2024-04-std-03-12-003</link>
+<description>03/07/2024 - National - 2024-04 (STD 03-12-003) [STD 03-12-003] - Cancellation of STD 03-12-003 Guidelines on the Stability of Well Servicing Derricks</description>
+<pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
+<dc:creator>Cancellation of STD 03-12-003 Guidelines on the Stability of Well Servicing Derricks</dc:creator>
+<guid isPermaLink="true">https://www.osha.gov/enforcement/directives/2024-04-std-03-12-003</guid>
+</item>
+<item>
+<title>Process Safety Management of Highly Hazardous Chemicals</title>
+<link>https://www.osha.gov/enforcement/directives/cpl-02-01-065</link>
+<description>01/26/2024 - National - CPL 02-01-065 [CPL 02-02-045] - Process Safety Management of Highly Hazardous Chemicals</description>
+<pubDate>Fri, 26 Jan 2024 12:00:00 +0000</pubDate>
+<dc:creator>Process Safety Management of Highly Hazardous Chemicals</dc:creator>
+<guid isPermaLink="true">https://www.osha.gov/enforcement/directives/cpl-02-01-065</guid>
+</item>
+<item>
+<title>Cancellation of IPC 00-00-002 OSHA Magazine – Job Safety and Health Quarterly</title>
+<link>https://www.osha.gov/enforcement/directives/2024-01</link>
+<description>01/09/2024 - National - 2024-01 [IPC 00-00-002] - Cancellation of IPC 00-00-002 OSHA Magazine – Job Safety and Health Quarterly</description>
+<pubDate>Tue, 09 Jan 2024 12:00:00 +0000</pubDate>
+<dc:creator>Cancellation of IPC 00-00-002 OSHA Magazine – Job Safety and Health Quarterly</dc:creator>
+<guid isPermaLink="true">https://www.osha.gov/enforcement/directives/2024-01</guid>
+</item>
+</channel>
+</rss>

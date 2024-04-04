@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.osha.gov/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<channel>
+<title>OSHA News Release</title>
+<link>https://www.osha.gov/</link>
+<description>Current OSHA News Releases</description>
+<language>en</language>
+<item>
+<title>US Department of Labor issues final rule to clarify rights to employee representation during OSHA inspections</title>
+<link>https://www.osha.gov/news/newsreleases/national/03292024</link>
+<description>March 29, 2024
+
+</description>
+<pubDate>Fri, 29 Mar 2024 12:00:00 +0000</pubDate>
+<dc:creator>US Department of Labor issues final rule to clarify rights to employee representation during OSHA inspections</dc:creator>
+<guid isPermaLink="true">https://www.osha.gov/news/newsreleases/national/03292024</guid>
+</item>
+<item>
+<title>Department of Labor holds PrimeLending vice president, managers  liable after employees fired for reporting consumer fraud concerns</title>
+<link>https://www.osha.gov/news/newsreleases/region9/03272024</link>
+<description>March 27, 2024
+
+</description>
+<pubDate>Wed, 27 Mar 2024 12:00:00 +0000</pubDate>
+<dc:creator>Department of Labor holds PrimeLending vice president, managers  liable after employees fired for reporting consumer fraud concerns</dc:creator>
+<guid isPermaLink="true">https://www.osha.gov/news/newsreleases/region9/03272024</guid>
+</item>
+<item>
+<title>US Department of Labor investigation of employee’s severe injuries  finds Ohio manufacturer failed to correct similar hazards cited in 2022</title>
+<link>https://www.osha.gov/news/newsreleases/region5/03262024-0</link>
+<description>March 26, 2024
+
+</description>
+<pubDate>Tue, 26 Mar 2024 12:00:00 +0000</pubDate>
+<dc:creator>US Department of Labor investigation of employee’s severe injuries  finds Ohio manufacturer failed to correct similar hazards cited in 2022</dc:creator>
+<guid isPermaLink="true">https://www.osha.gov/news/newsreleases/region5/03262024-0</guid>
+</item>
+<item>
+<title>US Department of Labor investigation finds HBD/Thermoid again exposed employees to unsafe conditions, proposes additional $321K in penalties </title>
+<link>https://www.osha.gov/news/newsreleases/region5/03262024</link>
+<description>March 26, 2024
+
+</description>
+<pubDate>Tue, 26 Mar 2024 12:00:00 +0000</pubDate>
+<dc:creator>US Department of Labor investigation finds HBD/Thermoid again exposed employees to unsafe conditions, proposes additional $321K in penalties </dc:creator>
+<guid isPermaLink="true">https://www.osha.gov/news/newsreleases/region5/03262024</guid>
+</item>
+<item>
+<title>OSHA, Safety Week organization challenge industry employers to lead largest stand-down to prevent falls on May 8 </title>
+<link>https://www.osha.gov/news/newsreleases/trade/03252024</link>
+<description>March 25, 2024
+Contact: Office of Communications
+Phone: 202-693-1999
+</description>
+<pubDate>Mon, 25 Mar 2024 12:00:00 +0000</pubDate>
+<dc:creator>OSHA, Safety Week organization challenge industry employers to lead largest stand-down to prevent falls on May 8 </dc:creator>
+<guid isPermaLink="true">https://www.osha.gov/news/newsreleases/trade/03252024</guid>
+</item>
+</channel>
+</rss>

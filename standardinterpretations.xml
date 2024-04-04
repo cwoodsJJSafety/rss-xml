@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.osha.gov/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<channel>
+<title>OSHA Interpretations</title>
+<link>https://www.osha.gov/</link>
+<description>Current OSHA Letters of Interpretation</description>
+<language>en</language>
+<item>
+<title>Suspended scaffold and fall protection requirements applicable to elevator construction</title>
+<link>https://www.osha.gov/laws-regs/standardinterpretations/2023-12-05</link>
+<description>Suspended scaffold and fall protection requirements applicable to elevator construction - [1926.450(b); 1926.451(g); 1926.451(h); 1926.500(b); 1926.502(d)]</description>
+<pubDate>Tue, 05 Dec 2023 12:00:00 +0000</pubDate>
+<dc:creator>Suspended scaffold and fall protection requirements applicable to elevator construction</dc:creator>
+<guid isPermaLink="true">https://www.osha.gov/laws-regs/standardinterpretations/2023-12-05</guid>
+</item>
+<item>
+<title>OSHA Noise PEL and extended workshifts</title>
+<link>https://www.osha.gov/laws-regs/standardinterpretations/2021-10-12</link>
+<description>OSHA Noise PEL and extended workshifts - [1910.95(a); 1910.95(b)(1); 1910.95(b)(3)]</description>
+<pubDate>Tue, 12 Oct 2021 12:00:00 +0000</pubDate>
+<dc:creator>OSHA Noise PEL and extended workshifts</dc:creator>
+<guid isPermaLink="true">https://www.osha.gov/laws-regs/standardinterpretations/2021-10-12</guid>
+</item>
+<item>
+<title>Updating OSHA's Lead Standards' requirements for medical removal of employees based on hazardous blood lead levels</title>
+<link>https://www.osha.gov/laws-regs/standardinterpretations/2022-07-19</link>
+<description>Updating OSHA's Lead Standards' requirements for medical removal of employees based on hazardous blood lead levels - [1910.1025; 1915.1025; 1926.62]</description>
+<pubDate>Tue, 19 Jul 2022 12:00:00 +0000</pubDate>
+<dc:creator>Updating OSHA&amp;#039;s Lead Standards&amp;#039; requirements for medical removal of employees based on hazardous blood lead levels</dc:creator>
+<guid isPermaLink="true">https://www.osha.gov/laws-regs/standardinterpretations/2022-07-19</guid>
+</item>
+<item>
+<title>Application of OSHA standards when an employer is using the "Focused Electrode Leak Locator" (FELL)</title>
+<link>https://www.osha.gov/laws-regs/standardinterpretations/2023-03-29</link>
+<description>Application of OSHA standards when an employer is using the "Focused Electrode Leak Locator" (FELL) - [1910.302; 1910.303; 1910.307(c)(1); 1910.307(c)(2); 1910.307(c)(3); 1910.399; 1910.146]</description>
+<pubDate>Wed, 29 Mar 2023 12:00:00 +0000</pubDate>
+<dc:creator>Application of OSHA standards when an employer is using the &amp;quot;Focused Electrode Leak Locator&amp;quot; (FELL)</dc:creator>
+<guid isPermaLink="true">https://www.osha.gov/laws-regs/standardinterpretations/2023-03-29</guid>
+</item>
+<item>
+<title>OSHA policy for laboratory analysis of wall deposits on the inside of an air sample cassette</title>
+<link>https://www.osha.gov/laws-regs/standardinterpretations/2023-04-19</link>
+<description>OSHA policy for laboratory analysis of wall deposits on the inside of an air sample cassette - [1910.1020(c)(5)(i)]</description>
+<pubDate>Wed, 19 Apr 2023 12:00:00 +0000</pubDate>
+<dc:creator>OSHA policy for laboratory analysis of wall deposits on the inside of an air sample cassette</dc:creator>
+<guid isPermaLink="true">https://www.osha.gov/laws-regs/standardinterpretations/2023-04-19</guid>
+</item>
+</channel>
+</rss>
