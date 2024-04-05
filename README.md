@@ -12,10 +12,9 @@ This will require the librarys
 ## How To Install
 
 - Simple Install - Follow this first
-    - [Handy Microsoft tutorial for getting started](https://learn.microsoft.com/en-us/windows/python/beginners)
+  - [Handy Microsoft tutorial for getting started](https://learn.microsoft.com/en-us/windows/python/beginners)
 - Recommended install - Do this next
-    - [Creating Virtual Environments in Windows through VSCode](https://code.visualstudio.com/docs/python/environments)
-
+  - [Creating Virtual Environments in Windows through VSCode](https://code.visualstudio.com/docs/python/environments)
 
 ## Usage
 
