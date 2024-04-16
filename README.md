@@ -4,8 +4,6 @@ This repository will allow for the hosting of the RSS XMl files outside of the s
 
 ## Required Libraries
 
-This will require the librarys
-
 - `bs4`
 - `requests`
 
