@@ -1,49 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://www.osha.gov/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-<channel>
-<title>OSHA Directives</title>
-<link>https://www.osha.gov/</link>
-<description>Current OSHA Directives</description>
-<language>en</language>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.osha.gov/">
+  <channel>
+    <title>OSHA Directives</title>
+    <link>https://www.osha.gov/</link>
+    <description>Current OSHA Directives</description>
+    <language>en</language>
+    
+    <item>
+  <title>Regional Local Emphasis Program – Noise Hazards</title>
+  <link>https://www.osha.gov/enforcement/directives/nyc-cpl-04-00-001</link>
+  <description>12/05/2024 -  href="http://www.osha.gov/taxonomy/term/14" hreflang="en"New York City - NYC-CPL-04-00-001 - Regional Local Emphasis Program – Noise Hazards</description>
+  <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Regional Local Emphasis Program – Noise Hazards</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/enforcement/directives/nyc-cpl-04-00-001</guid>
+    </item>
 <item>
-<title>Cancellation of PER 04-00-004 Hearing Conservation Program</title>
-<link>https://www.osha.gov/enforcement/directives/2024-05-04-00-004</link>
-<description>05/14/2024 - National - 2024-05 (PER 04-00-004) [PER 04-00-004] - Cancellation of PER 04-00-004 Hearing Conservation Program</description>
-<pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
-<dc:creator>Cancellation of PER 04-00-004 Hearing Conservation Program</dc:creator>
-<guid isPermaLink="true">https://www.osha.gov/enforcement/directives/2024-05-04-00-004</guid>
-</item>
+  <title>OSHA Authority Over Vessels and Facilities on or Adjacent to U.S. Navigable Waters and on the Outer Continental Shelf (OCS)</title>
+  <link>https://www.osha.gov/enforcement/directives/cpl-02-01-066</link>
+  <description>11/13/2024 - National - CPL 02-01-066 - OSHA Authority Over Vessels and Facilities on or Adjacent to U.S. Navigable Waters and on the Outer Continental Shelf (OCS)</description>
+  <pubDate>Wed, 13 Nov 2024 12:00:00 +0000</pubDate>
+    <dc:creator>OSHA Authority Over Vessels and Facilities on or Adjacent to U.S. Navigable Waters and on the Outer Continental Shelf (OCS)</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/enforcement/directives/cpl-02-01-066</guid>
+    </item>
 <item>
-<title>OSHA Safety and Health Management System, Chapter 16, Hearing Conservation Program, UPDATED</title>
-<link>https://www.osha.gov/enforcement/directives/adm-04-00-003-4</link>
-<description>05/01/2024 - National - ADM 04-00-003 - OSHA Safety and Health Management System, Chapter 16, Hearing Conservation Program, UPDATED</description>
-<pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate>
-<dc:creator>OSHA Safety and Health Management System, Chapter 16, Hearing Conservation Program, UPDATED</dc:creator>
-<guid isPermaLink="true">https://www.osha.gov/enforcement/directives/adm-04-00-003-4</guid>
-</item>
+  <title>Regional Emphasis Program for Noise Hazards</title>
+  <link>https://www.osha.gov/enforcement/directives/atl-cpl-04-00-002</link>
+  <description>11/05/2024 -  href="http://www.osha.gov/taxonomy/term/16" hreflang="en"tlanta - ATL-CPL-04-00-002 - Regional Emphasis Program for Noise Hazards</description>
+  <pubDate>Tue, 05 Nov 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Regional Emphasis Program for Noise Hazards</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/enforcement/directives/atl-cpl-04-00-002</guid>
+    </item>
 <item>
-<title>Cancellation of TED 01-00-016 Procedures for Updating OSHA Technical Manual</title>
-<link>https://www.osha.gov/enforcement/directives/2024-03-ted-01-00-016</link>
-<description>03/20/2024 - National - 2024-03 (TED 01-00-016) [TED 01-00-016] - Cancellation of TED 01-00-016 Procedures for Updating OSHA Technical Manual</description>
-<pubDate>Wed, 20 Mar 2024 12:00:00 +0000</pubDate>
-<dc:creator>Cancellation of TED 01-00-016 Procedures for Updating OSHA Technical Manual</dc:creator>
-<guid isPermaLink="true">https://www.osha.gov/enforcement/directives/2024-03-ted-01-00-016</guid>
-</item>
+  <title>Regional Emphasis Program for Powered Industrial Trucks</title>
+  <link>https://www.osha.gov/enforcement/directives/atl-cpl-04-00-004</link>
+  <description>11/05/2024 -  href="http://www.osha.gov/taxonomy/term/16" hreflang="en"tlanta - ATL-CPL-04-00-004 - Regional Emphasis Program for Powered Industrial Trucks</description>
+  <pubDate>Tue, 05 Nov 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Regional Emphasis Program for Powered Industrial Trucks</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/enforcement/directives/atl-cpl-04-00-004</guid>
+    </item>
 <item>
-<title>Cancellation of TED 01-00-014 Guidelines for Developing OSHA Technical Manual</title>
-<link>https://www.osha.gov/enforcement/directives/2024-02-ted-01-00-014</link>
-<description>03/07/2024 - National - 2024-02 (TED 01-00-014) [TED 01-00-014] - Cancellation of TED 01-00-014 Guidelines for Developing OSHA Technical Manual</description>
-<pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
-<dc:creator>Cancellation of TED 01-00-014 Guidelines for Developing OSHA Technical Manual</dc:creator>
-<guid isPermaLink="true">https://www.osha.gov/enforcement/directives/2024-02-ted-01-00-014</guid>
-</item>
-<item>
-<title>Cancellation of STD 03-12-003 Guidelines on the Stability of Well Servicing Derricks</title>
-<link>https://www.osha.gov/enforcement/directives/2024-04-std-03-12-003</link>
-<description>03/07/2024 - National - 2024-04 (STD 03-12-003) [STD 03-12-003] - Cancellation of STD 03-12-003 Guidelines on the Stability of Well Servicing Derricks</description>
-<pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
-<dc:creator>Cancellation of STD 03-12-003 Guidelines on the Stability of Well Servicing Derricks</dc:creator>
-<guid isPermaLink="true">https://www.osha.gov/enforcement/directives/2024-04-std-03-12-003</guid>
-</item>
-</channel>
+  <title>Local Emphasis Program for Federal Agencies</title>
+  <link>https://www.osha.gov/enforcement/directives/atl-cpl-04-00-005</link>
+  <description>11/05/2024 -  href="http://www.osha.gov/taxonomy/term/16" hreflang="en"tlanta - ATL-CPL-04-00-005 - Local Emphasis Program for Federal Agencies</description>
+  <pubDate>Tue, 05 Nov 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Local Emphasis Program for Federal Agencies</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/enforcement/directives/atl-cpl-04-00-005</guid>
+    </item>
+
+  </channel>
 </rss>
